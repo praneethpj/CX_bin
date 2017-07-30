@@ -1,6 +1,6 @@
 # CX_bin
  
-[![CX bin](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/edit?o=U&video_id=LJpAInFS97o "Everything Is AWESOME")
+[![CX bin]()](https://www.youtube.com/edit?o=U&video_id=LJpAInFS97o "Everything Is AWESOME")
 
 Introduction
 --------------
