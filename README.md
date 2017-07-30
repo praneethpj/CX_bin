@@ -1,7 +1,6 @@
 # CX_bin
-
-
-[linkname](https://www.youtube.com/edit?o=U&video_id=LJpAInFS97o)
+ 
+[![CX bin](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/edit?o=U&video_id=LJpAInFS97o "Everything Is AWESOME")
 
 Introduction
 --------------
