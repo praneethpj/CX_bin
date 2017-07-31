@@ -1,4 +1,4 @@
-# CX_bin
+# CX_bin beta version
  
 [![CX bin](https://github.com/praneethpj/CX_bin/blob/master/Untitled.png)](https://www.youtube.com/edit?o=U&video_id=LJpAInFS97o "Everything Is AWESOME")
 
