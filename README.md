@@ -5,3 +5,6 @@
 Introduction
 --------------
 CX bin is a free software that can be used to cut or copy files in different folders at once
+
+
+please report any of issues via https://github.com/praneethpj/CX_bin/issues
